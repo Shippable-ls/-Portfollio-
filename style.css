@@ -1,0 +1,57 @@
+.topNav {
+  background-color: grey;
+  text-color: white;
+    
+}
+ 
+.topNav a {
+  color: white;
+   text-align: center;
+      padding: 34px 6px;
+  
+}
+
+.image {
+  height: 80px;
+  align: center;
+  
+}
+
+.head {
+  background-color: dark grey;
+}
+.sidenav {
+width: 500px;
+  background-color: black;
+  
+}
+
+.sidenav {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 1px 3px;
+  
+  {
+    
+    .fa fa-facebook {
+      text-align: right;
+      
+    }
+    
+    
+.h3 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+    
+    .images img{
+    position:absolute;
+  }
+
+  .glowed{
+    box-shadow: 0px 0px 30px 2px #cf5
+  }
